@@ -1,0 +1,7 @@
+libexec/gcc/arm-linux-gnueabi/10.2.1/cc1 filter=lfs diff=lfs merge=lfs -text
+libexec/gcc/arm-linux-gnueabi/10.2.1/lto1 filter=lfs diff=lfs merge=lfs -text
+libexec/gcc/arm-linux-gnueabi/10.2.1/cc1plus filter=lfs diff=lfs merge=lfs -text
+arm-linux-gnueabi/bin/ld.gold filter=lfs diff=lfs merge=lfs -text
+bin/arm-linux-gnueabi-dwp filter=lfs diff=lfs merge=lfs -text
+bin/arm-linux-gnueabi-lto-dump filter=lfs diff=lfs merge=lfs -text
+bin/arm-linux-gnueabi-ld.gold filter=lfs diff=lfs merge=lfs -text
